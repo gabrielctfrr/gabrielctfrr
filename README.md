@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Ferreira
+# 👋 Olá! Eu sou o Gabriel Ferreira
 
 Desenvolvedor com foco em Ciência de Dados, em busca de novos desafios.
 <br>
