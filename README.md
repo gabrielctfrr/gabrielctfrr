@@ -1,7 +1,10 @@
 # 👋 Olá! Eu sou o Gabriel Ferreira
 
-Desenvolvedor com foco em Ciência de Dados, em busca de novos desafios.
-<br>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/gabrielctfrr/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Cientista%20de%20Dados%20|%20Desenvolvedor%20Back-End;font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 ## 🚀 Minhas Stacks
 
