@@ -43,7 +43,7 @@
 ## 📫 Como me Encontrar
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-ferreira-9782a51bb/" target="_blank">
+<a href="https://www.linkedin.com/in/gabrielctfrr/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:gabrielctferreira@gmail.com" target="_blank">
