@@ -55,4 +55,4 @@
 
 ## 💻 Projetos em Destaque
 
-[![Card do Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=gabrielctfrr&repo=Projeto_de_Previs-o_de_Churn&theme=tokyonight)](https://github.com/gabrielctfrr/Projeto_de_Previs-o_de_Churn)
+[![Card do Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=gabrielctfrr&repo=Modelo_de_Previsao_de_Churn&theme=tokyonight)](https://github.com/gabrielctfrr/Modelo_de_Previsao_de_Churn)
