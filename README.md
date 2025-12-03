@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/gabrielctfrr/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cientista%20de%20Dados%20|%20Desenvolvedor%20Back-End&font=Fira%20Code&center=true&width=610&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Cientista%20de%20Dados%20&font=Fira%20Code&center=true&width=610&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
