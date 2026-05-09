@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Cientista de Dados e ML Engineer em formação, com bacharelado em Ciência da Computação pela **UFAM**. Desenvolvo pipelines completos de modelagem — da análise exploratória à avaliação de modelos — com foco em resultados mensuráveis.
+Cientista de Dados e ML Engineer, com bacharelado em Ciência da Computação pela **UFAM**. Desenvolvo pipelines completos de modelagem — da análise exploratória à avaliação de modelos — com foco em resultados mensuráveis.
 
 Tenho experiência prática em **Machine Learning**, **Deep Learning** e **Visão Computacional**, com projetos aplicados em classificação de imagens com redes convolucionais (EfficientNet, transfer learning) e detecção de fraude com metodologia CRISP-DM.
 
