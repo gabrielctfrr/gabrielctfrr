@@ -82,3 +82,5 @@ Busco oportunidades para atuar no desenvolvimento e avaliação de modelos de IA
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
